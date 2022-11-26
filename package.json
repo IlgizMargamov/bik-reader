@@ -1,0 +1,27 @@
+{
+  "name": "bik-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlgizMargamov/bik-reader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlgizMargamov/bik-reader/issues"
+  },
+  "homepage": "https://github.com/IlgizMargamov/bik-reader#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "iconv-lite": "^0.6.3",
+    "node-fetch": "^3.3.0",
+    "xmldom": "^0.6.0"
+  }
+}
